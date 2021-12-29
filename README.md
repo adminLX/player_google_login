@@ -1,0 +1,2 @@
+# player_google_login
+player出各种rom安装包以后，自动启动校验应用登录下载游戏不发生崩溃闪退等异常信息
